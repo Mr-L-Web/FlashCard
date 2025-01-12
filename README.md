@@ -8,3 +8,5 @@ Answers are not case sensitive.
 
 Version 1.0. Has one subject. Capital cities. The app asks the question and correctly marks the answer.
 More features to come later. 
+
+Bug: when submitting a correct answer after an incorrect one, the incorrect label remains and the correct label overlaps the incorrect label. 
