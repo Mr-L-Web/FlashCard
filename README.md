@@ -6,7 +6,7 @@ If the answer is correct, the app will say "correct". Otherwise, it'll say "inco
 Answers are not case sensitive.
 
 
-Version 1.0. Has one subject. Capital cities. The app asks the question and correctly marks the answer.
-More features to come later. 
+Version 1.1. Has one subject. Capital cities. The app asks the question and correctly marks the answer.
+A menu button is available to go back to the home screen.
 
-Bug: when submitting a correct answer after an incorrect one, the incorrect label remains and the correct label overlaps the incorrect label. 
+Bug: No bugs reported.
